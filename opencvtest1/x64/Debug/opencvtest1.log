@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\code\vs2015\test1\opencvtest1\opencvtest1\test.cpp(11): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+d:\code\vs2015\test1\opencvtest1\opencvtest1\test.cpp(31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  opencvtest1.vcxproj -> D:\code\vs2015\test1\opencvtest1\x64\Debug\opencvtest1.exe
+  opencvtest1.vcxproj -> D:\code\vs2015\test1\opencvtest1\x64\Debug\opencvtest1.pdb (Full PDB)
